@@ -1,0 +1,10 @@
+id,type,date,category,amount,note
+10,Income,2026-10-01,Pocket Money,8000.00,Monthly allowance
+11,Expense,2026-10-03,Food,240.00,Canteen
+12,Expense,2026-10-04,Books,499.00,Python practice book
+13,Expense,2026-10-06,Transport,150.00,Bus to home
+14,Expense,2026-10-09,Recharge,299.00,Mobile plan
+15,Expense,2026-10-11,Entertainment,280.00,Hackathon team dinner
+16,Expense,2026-10-14,Food,360.00,Canteen and tea
+17,Income,2026-10-15,Scholarship,2500.00,Merit scholarship installment
+18,Expense,2026-10-17,Stationery,120.00,Printout and file
